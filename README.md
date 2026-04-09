@@ -19,11 +19,9 @@ My goal is to become one of the best software engineers I can be, built on consi
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg height="40")
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg height="40")
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg height="40")
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg height="40")
-![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg height="40")
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </div>
