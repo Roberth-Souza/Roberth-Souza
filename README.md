@@ -2,7 +2,7 @@
 
 # Hi there, I'm Roberth! 👋
 
-Computer Science student (1st semester) at Unifecaf, Brazil 🇧🇷  
+Computer Science student (2st semester) at Unifecaf, Brazil 🇧🇷  
 Building my path toward becoming a software engineer ✨
 
 </div>
